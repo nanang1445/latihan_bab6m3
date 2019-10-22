@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">kalender</string>
+    <string-array name="spinner_prodi">
+        <item>Teknik Informatika</item>
+        <item>Sistem Informasi</item>
+        <item>Manajemen Informasi</item>
+        <item>Teknik Elektro</item>
+        <item>Sistem Komputer</item>
+        <item>Teknik Sipil</item>
+        <item>Arsitektur</item>
+    </string-array>
+</resources>

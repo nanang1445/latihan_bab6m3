@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">tugas3</string>
+
+    <string-array name="spinner_negara">
+    <item>indonesia</item>
+    <item>japan</item>
+    <item>united kingdom</item>
+    <item>usa</item>
+    <item>germany</item>
+    <item>france</item>
+    <item>thailand</item>
+    <item>other</item>
+    </string-array>
+</resources>
